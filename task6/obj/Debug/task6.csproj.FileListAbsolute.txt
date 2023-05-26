@@ -1,0 +1,7 @@
+E:\PD\PDlab5\task6\bin\Debug\task6.exe.config
+E:\PD\PDlab5\task6\bin\Debug\task6.exe
+E:\PD\PDlab5\task6\bin\Debug\task6.pdb
+E:\PD\PDlab5\task6\obj\Debug\task6.csproj.AssemblyReference.cache
+E:\PD\PDlab5\task6\obj\Debug\task6.csproj.CoreCompileInputs.cache
+E:\PD\PDlab5\task6\obj\Debug\task6.exe
+E:\PD\PDlab5\task6\obj\Debug\task6.pdb

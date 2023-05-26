@@ -1,0 +1,4 @@
+usman,p,Admin
+usman,u,customer
+hanan,p,customer
+p,p,customer

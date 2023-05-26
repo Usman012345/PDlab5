@@ -1,0 +1,6 @@
+E:\PD\PDlab5\task2\bin\Debug\task2.exe.config
+E:\PD\PDlab5\task2\bin\Debug\task2.exe
+E:\PD\PDlab5\task2\bin\Debug\task2.pdb
+E:\PD\PDlab5\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+E:\PD\PDlab5\task2\obj\Debug\task2.exe
+E:\PD\PDlab5\task2\obj\Debug\task2.pdb
